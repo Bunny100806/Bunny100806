@@ -56,7 +56,7 @@ My independent AI-assisted architecture exploration project, combining **React, 
 
 **[VIEW PYTHON CERTIFICATE](https://www.kaggle.com/learn/certification/saicharitharthn/python)** — Kaggle Learn · Python course.
 
-<img src="./assets/activity-flight.svg" alt="Animated contribution activity flight; the chart uses real activity after GitHub Actions synchronization" width="100%" />
+<img src="./assets/activity-flight.svg?v=2" alt="Animated contribution activity flight; the chart uses real activity after GitHub Actions synchronization" width="100%" />
 
 <sub>The animated contribution graphic is generated from <b>real public GitHub contributions</b> by the included GitHub Actions workflow. Before its first successful run, the grid is explicitly decorative. [See the authoritative GitHub contribution graph](https://github.com/Bunny100806).</sub>
 
