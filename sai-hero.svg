@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="492" viewBox="0 0 1280 492" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Sai Charitharth Nadigoti — Full-Stack Developer and AI Security Builder</title>
+  <desc id="heroDesc">Cinematic burgundy developer profile hero with glowing animated security-orbit illustration</desc>
+  <defs>
+    <linearGradient id="heroBg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#10070C"/><stop offset=".58" stop-color="#1B0B14"/><stop offset="1" stop-color="#270C1B"/></linearGradient>
+    <radialGradient id="heroBloom" cx="70%" cy="48%" r="58%"><stop stop-color="#701A3D" stop-opacity=".53"/><stop offset=".54" stop-color="#451126" stop-opacity=".18"/><stop offset="1" stop-color="#10070C" stop-opacity="0"/></radialGradient>
+    <linearGradient id="heroAccent" x1="0" x2="1"><stop stop-color="#C77B9B"/><stop offset=".5" stop-color="#F8F0F3"/><stop offset="1" stop-color="#A84871"/></linearGradient>
+    <linearGradient id="heroScan" x1="0" x2="1"><stop stop-color="#701A3D" stop-opacity="0"/><stop offset=".5" stop-color="#E5B5C7" stop-opacity=".9"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+    <pattern id="heroGrid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#C77B9B" stroke-opacity=".085" stroke-width="1"/></pattern>
+    <pattern id="heroDots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#E5B5C7" opacity=".16"/></pattern>
+    <filter id="heroGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="heroClip"><rect width="1280" height="492" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#heroClip)">
+    <rect width="1280" height="492" fill="url(#heroBg)"/>
+    <rect width="1280" height="492" fill="url(#heroBloom)"/>
+    <rect x="0" width="1280" height="492" fill="url(#heroGrid)"/>
+    <path d="M0 396L400 396M0 413H275M1040 0V492" stroke="#C77B9B" stroke-width="1" stroke-opacity=".10"/>
+    <rect x="36" y="33" width="1208" height="426" rx="14" fill="none" stroke="#C77B9B" stroke-opacity=".27"/>
+    <path d="M36 82H116M36 410H116M1164 82H1244M1164 410H1244" stroke="#E5B5C7" stroke-opacity=".55" stroke-width="2"/>
+    <g font-family="Arial, Helvetica, sans-serif">
+      <text x="89" y="95" fill="#E5B5C7" font-size="16" letter-spacing="5.2" font-weight="700">SC / 26</text>
+      <path d="M90 114H167" stroke="#C77B9B" stroke-width="2"/>
+      <text x="89" y="169" fill="#C77B9B" font-size="15" letter-spacing="3.6" font-weight="700">ENGINEER  ·  BUILDER  ·  EXPLORER</text>
+      <text x="85" y="241" fill="#F8F0F3" font-size="61" font-weight="700" letter-spacing=".2">SAI CHARITHARTH</text>
+      <text x="84" y="327" fill="url(#heroAccent)" font-size="86" font-weight="800" letter-spacing="3.8">NADIGOTI</text>
+      <path d="M90 352H567" stroke="#451126" stroke-width="5" stroke-linecap="round"/>
+      <path d="M90 352H567" stroke="url(#heroAccent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="130 350" filter="url(#heroGlow)">
+        <animate attributeName="stroke-dashoffset" from="480" to="0" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <text x="89" y="395" fill="#F8F0F3" font-size="18" letter-spacing="2.2">FULL-STACK DEVELOPMENT   /   AI SECURITY</text>
+      <text x="90" y="432" fill="#C77B9B" font-size="13" letter-spacing="2.1">WARSAW, POLAND   ·   REACT + PYTHON + FASTAPI</text>
+      <text x="1165" y="88" fill="#C77B9B" font-size="11" letter-spacing="2.2" text-anchor="end">SYSTEM / ONLINE</text>
+      <text x="1165" y="425" fill="#E5B5C7" font-size="11" letter-spacing="2.2" text-anchor="end">EST. IN CURIOSITY</text>
+    </g>
+    <g transform="translate(1010 248)" fill="none">
+      <circle r="202" stroke="#E5B5C7" stroke-opacity=".13" stroke-dasharray="2 13"/>
+      <circle r="163" stroke="#C77B9B" stroke-opacity=".36"/>
+      <circle r="135" stroke="#E5B5C7" stroke-opacity=".24" stroke-dasharray="4 9"/>
+      <circle r="103" stroke="#C77B9B" stroke-opacity=".60"/>
+      <circle r="77" stroke="#C77B9B" stroke-opacity=".24"/>
+      <g stroke="#E5B5C7" stroke-opacity=".18">
+        <path d="M-188 0H188M0 -188V188M-132 -132L132 132M-132 132L132 -132"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/>
+        <path d="M-163 0A163 163 0 0 1 0 -163" stroke="#E5B5C7" stroke-width="3" stroke-linecap="round" filter="url(#heroGlow)"/>
+        <circle cy="-163" r="5" fill="#E5B5C7" filter="url(#heroGlow)"/>
+      </g>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="19s" repeatCount="indefinite"/>
+        <path d="M-74 71A103 103 0 0 1 -5 -103" stroke="#B34872" stroke-width="4" stroke-linecap="round"/>
+        <circle cx="-74" cy="71" r="5" fill="#F8F0F3"/>
+      </g>
+      <path d="M-32 -39L0 -57L32 -39V3Q28 33 0 49Q-28 33 -32 3Z" stroke="#E5B5C7" stroke-width="3" fill="#451126" fill-opacity=".9" filter="url(#heroGlow)"/>
+      <path d="M-13 -1L-2 10L20 -15" stroke="#F8F0F3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <g fill="#C77B9B"><circle cx="-205" cy="0" r="3"/><circle cx="205" cy="0" r="3"/><circle cx="0" cy="-205" r="3"/><circle cx="0" cy="205" r="3"/></g>
+      <path d="M-218 91L-184 91L-163 70" stroke="#C77B9B" stroke-opacity=".5"/>
+      <path d="M145 -143L192 -143" stroke="#C77B9B" stroke-opacity=".55"/>
+    </g>
+    <path d="M680 160C757 160 768 112 837 112C908 112 899 166 961 166" fill="none" stroke="url(#heroScan)" stroke-width="1.6" opacity=".6" stroke-dasharray="9 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="-102" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <rect x="0" y="489" width="1280" height="3" fill="url(#heroAccent)" opacity=".6"/>
+  </g>
+</svg>
