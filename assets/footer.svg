@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="175" viewBox="0 0 1200 175" role="img" aria-label="Animated GitHub profile graphic">
+<defs>
+ <linearGradient id="bg-footer" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#10070C"/><stop offset=".57" stop-color="#1D0A13"/><stop offset="1" stop-color="#330F21"/></linearGradient>
+ <radialGradient id="halo-footer" cx="50%" cy="50%" r="55%"><stop stop-color="#AB3B6B" stop-opacity=".65"/><stop offset=".45" stop-color="#6D1D3D" stop-opacity=".26"/><stop offset="1" stop-color="#5C1835" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line-footer" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#71213D" stop-opacity="0"/><stop offset=".47" stop-color="#E5B5C7" stop-opacity=".78"/><stop offset="1" stop-color="#812448" stop-opacity="0"/></linearGradient>
+ <linearGradient id="rose-footer" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F0F3"/><stop offset=".42" stop-color="#E5B5C7"/><stop offset="1" stop-color="#AB5479"/></linearGradient>
+ <pattern id="grid-footer" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#B05E7B" stroke-opacity=".085" stroke-width="1"/></pattern>
+ <filter id="glow-footer" x="-90%" y="-90%" width="280%" height="280%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip-footer"><rect width="1200" height="175" rx="22"/></clipPath>
+ </defs><g clip-path="url(#clip-footer)">
+<rect width="1200" height="175" fill="url(#bg-footer)"/>
+<rect width="1200" height="175" fill="url(#grid-footer)"/>
+<ellipse cx="924" cy="84" rx="540" ry="166" fill="url(#halo-footer)" opacity=".72">
+ <animate attributeName="opacity" values=".40;.82;.40" dur="11s" repeatCount="indefinite"/>
+</ellipse>
+<rect x="18" y="18" width="1164" height="139" rx="13" fill="none" stroke="#E0A8C0" stroke-opacity=".21" stroke-width="1"/>
+<path d="M 48 18 H 218 M 990 157 H 1152" fill="none" stroke="#E5B5C7" stroke-opacity=".48" stroke-width="1.5"/>
+<text x="600" y="97" font-family="Georgia,serif" font-size="51" font-weight="400" fill="#F8F0F3" text-anchor="middle">Let's build systems worth trusting.</text><text x="600" y="141" font-family="monospace" font-size="14" font-weight="600" fill="#E5B5C7" letter-spacing="3" text-anchor="middle">SAI CHARITHARTH NADIGOTI  /  2026  /  WARSAW</text><path d="M 65 15 H 1130" stroke="url(#line-footer)" stroke-width="3"><animate attributeName="stroke-dasharray" values="0 1200;300 900;0 1200" dur="8s" repeatCount="indefinite"/></path></g></svg>

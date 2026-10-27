@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="394" viewBox="0 0 1200 394" role="img" aria-label="Animated GitHub profile graphic">
+<defs>
+ <linearGradient id="bg-aegistwin" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#10070C"/><stop offset=".57" stop-color="#1D0A13"/><stop offset="1" stop-color="#330F21"/></linearGradient>
+ <radialGradient id="halo-aegistwin" cx="50%" cy="50%" r="55%"><stop stop-color="#AB3B6B" stop-opacity=".65"/><stop offset=".45" stop-color="#6D1D3D" stop-opacity=".26"/><stop offset="1" stop-color="#5C1835" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line-aegistwin" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#71213D" stop-opacity="0"/><stop offset=".47" stop-color="#E5B5C7" stop-opacity=".78"/><stop offset="1" stop-color="#812448" stop-opacity="0"/></linearGradient>
+ <linearGradient id="rose-aegistwin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F0F3"/><stop offset=".42" stop-color="#E5B5C7"/><stop offset="1" stop-color="#AB5479"/></linearGradient>
+ <pattern id="grid-aegistwin" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#B05E7B" stroke-opacity=".085" stroke-width="1"/></pattern>
+ <filter id="glow-aegistwin" x="-90%" y="-90%" width="280%" height="280%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip-aegistwin"><rect width="1200" height="394" rx="22"/></clipPath>
+ </defs><g clip-path="url(#clip-aegistwin)">
+<rect width="1200" height="394" fill="url(#bg-aegistwin)"/>
+<rect width="1200" height="394" fill="url(#grid-aegistwin)"/>
+<ellipse cx="924" cy="189" rx="540" ry="374" fill="url(#halo-aegistwin)" opacity=".72">
+ <animate attributeName="opacity" values=".40;.82;.40" dur="11s" repeatCount="indefinite"/>
+</ellipse>
+<rect x="18" y="18" width="1164" height="358" rx="13" fill="none" stroke="#E0A8C0" stroke-opacity=".21" stroke-width="1"/>
+<path d="M 48 18 H 218 M 990 376 H 1152" fill="none" stroke="#E5B5C7" stroke-opacity=".48" stroke-width="1.5"/>
+<text x="63" y="67" font-family="sans-serif" font-size="14" font-weight="700" fill="#E5B5C7" letter-spacing="2.7" >04  /  SELECTED WORK  —  FLAGSHIP PROJECT</text><text x="63" y="169" font-family="Georgia,serif" font-size="96" font-weight="400" fill="#F8F0F3" >AegisTwin.</text><text x="63" y="225" font-family="Georgia,serif" font-size="25" font-weight="400" fill="#E5B5C7" >Security infrastructure for AI agents.</text><text x="65" y="272" font-family="monospace" font-size="13" font-weight="600" fill="#AE8E9C" letter-spacing="1.4" >POLICY GUARDRAILS  /  FASTAPI  /  REACT  /  AUDITABILITY</text><text x="65" y="340" font-family="sans-serif" font-size="17" font-weight="400" fill="#E5B5C7" >Team SEVA   ·   Goldman Sachs challenge</text><g><rect x="848" y="86" width="242" height="218" rx="16" fill="#341124" stroke="#D494AC" stroke-opacity=".36"/>
+<path d="M969 118 l67 27 v56 c0 43-22 76-67 90-45-14-67-47-67-90v-56z" fill="#501B35" stroke="#EEB8D1" stroke-width="2"/><path d="M942 202 l19 20 36-44" fill="none" stroke="#FFE8EF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="969" cy="194" r="96" fill="none" stroke="#D692B0" stroke-dasharray="4 11" stroke-opacity=".33"><animateTransform attributeName="transform" type="rotate" from="0 969 194" to="360 969 194" dur="25s" repeatCount="indefinite"/></circle>
+<path d="M 815 194 H 854 M 1090 194 H 1130" stroke="#E7A9C3" stroke-opacity=".6"/><circle cx="812" cy="194" r="5" fill="#FFE8EF"><animate attributeName="r" values="3;8;3" dur="2.9s" repeatCount="indefinite"/></circle>
+</g></g></svg>

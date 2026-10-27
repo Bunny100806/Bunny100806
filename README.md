@@ -1,85 +1,65 @@
-![Sai Charitharth Nadigoti — Full-Stack Development and AI Security](sai-hero.svg)
+<!-- SAI CHARITHARTH NADIGOTI — original editorial SVG identity / animated GitHub README -->
+<div align="center">
 
-**[EXPLORE MY CODE](https://github.com/Bunny100806?tab=repositories)** · **[LINKEDIN](https://www.linkedin.com/in/sai-charitharth-nadigoti-8764802bb/)** · **[AEGISTWIN](https://github.com/Eman0989/aegistwin)**
+<img src="./assets/sai-hero.svg" alt="Sai Charitharth Nadigoti — animated premium editorial profile" width="100%" />
 
-**FULL-STACK DEVELOPMENT** / **AI AGENT SECURITY** / **SOFTWARE ARCHITECTURE**
+**FULL-STACK DEVELOPMENT** &nbsp; · &nbsp; **AI AGENT SECURITY** &nbsp; · &nbsp; **SOFTWARE ENGINEERING**
 
----
+<a href="https://github.com/Bunny100806?tab=repositories">PROJECTS</a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/sai-charitharth-nadigoti-8764802bb/">LINKEDIN</a> &nbsp; / &nbsp;
+<a href="https://www.kaggle.com/saicharitharthn">KAGGLE</a> &nbsp; / &nbsp;
+<a href="https://github.com/Eman0989/aegistwin">AEGISTWIN</a>
 
-## 01 / THE PERSON BEHIND THE CODE
+</div>
 
-I'm **Sai Charitharth Nadigoti**, a Computer Engineering student at **Vistula University, Warsaw**, and a developer working at the intersection of **full-stack engineering, intelligent systems, and AI security**.
+<a id="about"></a>
+<img src="./assets/intro.svg" alt="About Sai — engineering and design focus" width="100%" />
 
-I build interfaces that communicate clearly, backends that hold up under scrutiny, and AI-powered tools that solve practical problems. At **SG Analytics**, I work on the UI and development of React e-commerce landing pages as a **Web Developer Intern** (Oct 2025–present).
+I’m **Sai Charitharth Nadigoti**, a **Computer Engineering student at Vistula University in Warsaw**. I build full-stack applications and AI-enabled systems, with a focus on **React**, **Python/FastAPI**, software architecture, and AI-agent security.
 
-> **My approach:** thoughtful architecture, pragmatic implementation, and a user experience that feels intentional.
+<img src="./assets/achievement.svg" alt="Top 3 at HackYeah 2026 — Goldman Sachs AI Control Layer challenge" width="100%" />
 
----
+**HackYeah 2026 — Top 3, Goldman Sachs AI Control Layer challenge.** As part of **Team SEVA**, I helped develop AegisTwin, an AI-agent security control layer.
 
-## 02 / SELECTED WORK
+<img src="./assets/experience.svg" alt="Professional experience with SG Analytics and RamanaSoft" width="100%" />
 
-[![AegisTwin — AI agent security platform](aegistwin-cover.svg)](https://github.com/Eman0989/aegistwin)
+- **SG Analytics — Web Developer Intern** (October 2025–present). React e-commerce landing pages, interface development and UI design.
+- **RamanaSoft — C/C++ Developer Intern** (November 28, 2024–January 29, 2025). C/C++ software development.
 
-### AegisTwin
+<a href="https://github.com/Eman0989/aegistwin"><img src="./assets/aegistwin.svg" alt="AegisTwin — animated AI agent security project showcase" width="100%" /></a>
 
-`AI Security` · `FastAPI` · `React` · `Policy Guardrails` · `PostgreSQL`
+A security layer for LLM agents that evaluates actions, enforces policy guardrails, and preserves auditable decisions. My Team SEVA contributions include the **React security console, API integration, guardrails, policy presets and debugging**.
 
-An AI-agent security control layer designed to evaluate tool actions, detect suspicious behavior, enforce policy, and produce traceable decisions. I contributed to the **React security console, API integration, guardrails, policy presets, and debugging** as part of **Team SEVA**.
+**[EXPLORE AEGISTWIN](https://github.com/Eman0989/aegistwin)**
 
-[Explore the AegisTwin team repository](https://github.com/Eman0989/aegistwin)
+<a href="https://github.com/Bunny100806/ArchAgent-R"><img src="./assets/archagent.svg" alt="ArchAgent-R — animated AI architecture project showcase" width="100%" /></a>
 
-[![ArchAgent-R — AI-powered software architecture](archagent-cover.svg)](https://github.com/Bunny100806/ArchAgent-R)
+My independent AI-assisted architecture exploration project, combining **React, FastAPI and Ollama** to turn natural-language requirements into structured designs.
 
-### ArchAgent-R
+**[EXPLORE ARCHAGENT-R](https://github.com/Bunny100806/ArchAgent-R)**
 
-`React` · `FastAPI` · `React Flow` · `Ollama` · `SQLite`
+<details><summary><b>More engineering projects</b></summary>
 
-A software architecture reasoning application that turns natural-language requirements into structured architecture designs, with an interactive canvas, AI assistant, saved project history, and export workflows.
+- **AutoThreatOps** — multi-agent threat analysis, risk assessment and incident response.
+- **PerfMind** — code optimization and runtime/memory measurement.
+- **PO-LoRa** — LoRaWAN relay and simulation research.
 
-[Explore ArchAgent-R](https://github.com/Bunny100806/ArchAgent-R)
+</details>
 
-### Other projects
+<img src="./assets/skills.svg" alt="Technology stack — Python, React, FastAPI, PostgreSQL and Docker" width="100%" />
 
-- **AutoThreatOps** — AI-assisted threat analysis, risk assessment, and incident-response workflows.
-- **PerfMind** — code optimization exploration with execution-time and memory measurements.
-- **PO-LoRa** — Python-based LoRaWAN relay and simulation work.
+<a href="https://www.kaggle.com/saicharitharthn"><img src="./assets/kaggle.svg" alt="Sai's public Kaggle profile" width="100%" /></a>
 
----
+**[KAGGLE PROFILE](https://www.kaggle.com/saicharitharthn)** — public coding/data-science profile. No unverified rankings or medals are displayed.
 
-## 03 / RECOGNITION
+<img src="./assets/activity-flight.svg" alt="Animated contribution activity flight; the chart uses real activity after GitHub Actions synchronization" width="100%" />
 
-![Team SEVA — HackYeah 2026 Top 3, Goldman Sachs AI Control Layer challenge](achievement.svg)
+<sub>The animated contribution graphic is generated from <b>real public GitHub contributions</b> by the included GitHub Actions workflow. Before its first successful run, the grid is explicitly decorative. [See the authoritative GitHub contribution graph](https://github.com/Bunny100806).</sub>
 
-**Top 3 — HackYeah 2026, Goldman Sachs AI Control Layer challenge.** Our team, **SEVA**, developed **AegisTwin** to demonstrate governed execution and security control for AI agents.
+<a href="https://www.linkedin.com/in/sai-charitharth-nadigoti-8764802bb/"><img src="./assets/footer.svg" alt="Let's build systems worth trusting — Sai Charitharth Nadigoti" width="100%" /></a>
 
----
+<div align="center">
 
-## 04 / TOOLS OF THE TRADE
+[**GITHUB**](https://github.com/Bunny100806) · [**LINKEDIN**](https://www.linkedin.com/in/sai-charitharth-nadigoti-8764802bb/) · [**KAGGLE**](https://www.kaggle.com/saicharitharthn)
 
-| Domain | Technologies I use |
-| :--- | :--- |
-| **Languages** | Python · JavaScript · TypeScript · C · C++ |
-| **Frontend** | React · Vite · Tailwind CSS · React Flow |
-| **Backend & APIs** | FastAPI · Node.js · Express |
-| **AI systems** | Ollama · Llama 3.2 · CrewAI |
-| **Data & infrastructure** | PostgreSQL · SQLite · Docker · Git |
-
-**Currently focused on:** robust Python backends, AI-agent security, polished React experiences, and measurable software quality.
-
----
-
-## 05 / ACTIVITY IN THE OPEN
-
-[![GitHub contribution history for Bunny100806](https://ghchart.rshah.org/701A3D/Bunny100806)](https://github.com/Bunny100806)
-
-*This third-party visualization uses GitHub activity data. Visit [my GitHub profile](https://github.com/Bunny100806) for the authoritative contribution graph; no activity totals or streaks are claimed here.*
-
----
-
-## 06 / CONNECT
-
-Interested in **full-stack engineering**, **AI security**, or **collaborative software projects**?
-
-**[GitHub](https://github.com/Bunny100806)** · **[LinkedIn](https://www.linkedin.com/in/sai-charitharth-nadigoti-8764802bb/)**
-
-![Let's build systems worth trusting — Sai Charitharth Nadigoti](sai-footer.svg)
+</div>

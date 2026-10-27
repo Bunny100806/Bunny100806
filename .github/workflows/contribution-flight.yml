@@ -1,0 +1,29 @@
+name: Refresh real contribution flight
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+permissions:
+  contents: write
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch real contributions and render animated SVG
+        env:
+          GH_USERNAME: Bunny100806
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_activity.py
+      - name: Commit refreshed asset if it changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-flight.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh real contribution flight [skip ci]'
+            git push
+          fi
